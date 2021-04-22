@@ -10,8 +10,8 @@ import (
 	"github.com/braintree/manners"
 	"github.com/garyburd/redigo/redis"
 	"github.com/gocraft/web"
-	"github.com/vaporz/work"
-	"github.com/vaporz/work/webui/internal/assets"
+	"github.com/mkaiser323/work"
+	"github.com/mkaiser323/work/webui/internal/assets"
 )
 
 // Server implements an HTTP server which exposes a JSON API to view and manage gocraft/work items.
